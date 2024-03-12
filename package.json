@@ -1,0 +1,23 @@
+{
+  "name": "vue-express-cors-example",
+  "version": "1.0.0",
+  "description": "A little example of a vue frontend that can connect to an express backend on a different port during local development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "example",
+    "demo",
+    "cors",
+    "vue",
+    "express",
+    "proxy"
+  ],
+  "author": "Jordan Glanfield",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
